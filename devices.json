@@ -35,10 +35,10 @@
       "name": "Zenfone Max Pro M2",
       "supported_versions": [
          {
-            "maintainer_name": "Rams-ek",
-            "maintainer_url": "https://t.me/Rams-ek",
-            "version_code": "eleven",
-            "version_name": "Eleven",
+            "maintainer_name": "TioBurla",
+            "maintainer_url": "https://t.me/tioburla",
+            "version_code": "twelve",
+            "version_name": "Twelve",
             "xda_thread": ""
          }
       ]
@@ -108,6 +108,20 @@
          {
             "maintainer_name": "Dinh San",
             "maintainer_url": "https://github.com/dinhsan2000",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "mojito",
+      "name": "Redmi Note 10",
+      "supported_versions": [
+         {
+            "maintainer_name": "Tejas Kamat",
+            "maintainer_url": "https://github.com/DrTK001",
             "version_code": "eleven",
             "version_name": "Eleven",
             "xda_thread": ""
@@ -312,6 +326,20 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "mi8937",
+      "name": "Redmi 3S/3X/4A/4X/5A/Note5A/Y1",
+      "supported_versions": [
+         {
+            "maintainer_name": "me-cafebabe",
+            "maintainer_url": "https://t.me/me_cafebabe",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "pine",
       "name": "Redmi 7A",
       "supported_versions": [
@@ -340,6 +368,20 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "lava",
+      "name": "Xiaomi Redmi 9 & Poco M2",
+      "supported_versions": [
+         {
+            "maintainer_name": "marat2509",
+            "maintainer_url": "https://t.me/marat2509",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-r-vendor-oss-cherishos-by-marat2509.4345127/"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "umi",
       "name": "Mi 10",
       "supported_versions": [
@@ -352,3 +394,4 @@
          }
       ]
    }
+]
